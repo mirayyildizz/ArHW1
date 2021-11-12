@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="iki" size="0.100000 0.070188" />
+    <ImageTarget name="world" size="0.100000 0.056250" />
+    <ImageTarget name="backgr" size="0.300000 0.170707" />
+    <ImageTarget name="backk" size="0.300000 0.199875" />
+    <ImageTarget name="backkkkkk" size="0.300000 0.168000" />
+    <ImageTarget name="backg" size="0.300000 0.168000" />
+    <ImageTarget name="back" size="0.300000 0.112500" />
+    <ImageTarget name="unity" size="300.000000 162.835571" />
+  </Tracking>
+</QCARConfig>
